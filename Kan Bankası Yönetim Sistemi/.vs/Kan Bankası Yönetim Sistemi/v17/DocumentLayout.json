@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|c:\\users\\mehme\\source\\repos\\kan bankas\u0131 y\u00F6netim sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\gecis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\kontrolpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\kantransferi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\kansto\u011Fu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\kansto\u011Fu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\kansto\u011Fu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\kansto\u011Fu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\kanbag\u0131s\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\hastalistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\donorlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\kan bankas\u0131 y\u00F6netim sistemi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E70E55-4E06-4EA5-B854-FE3AC439B2EA}|Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi.csproj|solutionrelative:kan bankas\u0131 y\u00F6netim sistemi\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gecis.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Gecis.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Gecis.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Gecis.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Gecis.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:47:11.56Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gecis.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Gecis.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Gecis.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Gecis.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Gecis.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:45:56.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Program.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:44:06.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KanTransferi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanTransferi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanTransferi.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanTransferi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanTransferi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:03:01.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KanTransferi.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanTransferi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanTransferi.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanTransferi.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanTransferi.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAowM4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:41:14.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KontrolPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KontrolPaneli.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KontrolPaneli.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KontrolPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KontrolPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:03:02.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KontrolPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KontrolPaneli.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KontrolPaneli.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KontrolPaneli.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KontrolPaneli.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAowJQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:27:16.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Login.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Login.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:03:04.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KanSto\u011Fu.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanSto\u011Fu.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanSto\u011Fu.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanSto\u011Fu.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanSto\u011Fu.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowGMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:25:39.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KanSto\u011Fu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanSto\u011Fu.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanSto\u011Fu.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanSto\u011Fu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanSto\u011Fu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:02:59.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KanBag\u0131s\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanBag\u0131s\u0131.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanBag\u0131s\u0131.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanBag\u0131s\u0131.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanBag\u0131s\u0131.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAowKQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:19:27.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KanBag\u0131s\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanBag\u0131s\u0131.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanBag\u0131s\u0131.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanBag\u0131s\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\KanBag\u0131s\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:02:27.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HastaListesi.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\HastaListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\HastaListesi.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\HastaListesi.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\HastaListesi.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAowLIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:38:58.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HastaListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\HastaListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\HastaListesi.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\HastaListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\HastaListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:02:57.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Hasta.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Hasta.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Hasta.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Hasta.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAowHYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:36:00.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Hasta.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Hasta.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Hasta.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Hasta.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Hasta.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:02:55.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DonorListesi.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\DonorListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\DonorListesi.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\DonorListesi.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\DonorListesi.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwGEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:22:33.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonorListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\DonorListesi.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\DonorListesi.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\DonorListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\DonorListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:02:50.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Donor.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Donor.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Donor.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Donor.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAgwIwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:31:37.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Donor.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Donor.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Donor.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Donor.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Donor.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:02:48.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\AnaSayfa.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\AnaSayfa.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAgwFkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:32:05.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\AnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\AnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:02:42.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminLogin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\AdminLogin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\AdminLogin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T01:09:10.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Calisan.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Calisan.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Calisan.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Calisan.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Calisan.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:59:01.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Calisan.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Calisan.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Calisan.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Calisan.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:18:42.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Login.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Login.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Login.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\Login.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:27:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\Kan Bankas\u0131 Y\u00F6netim Sistemi\\AdminLogin.cs",
+              "RelativeToolTip": "Kan Bankas\u0131 Y\u00F6netim Sistemi\\AdminLogin.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T01:13:38.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
